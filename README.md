@@ -6,8 +6,8 @@ Die Datei muss nur in den Word root folder eingefügt werden und der Stil kann g
 ## Getting started
 1. `git clone https://github.com/2567910/fom-ms-word-ieee-xsl.git` oder .xsl Datei herunterladen
 2. Suche den Style Ordern von MS-Word
-    a. MacOS: Unter Prgramme rechtsklick auf MS Word und auf "Paketinhalt anzeigen". Im Ordner Contents nach dem Ordner "Style" suchen. Dort die .xls Datei einfügen.  
-    b. Bei Windows: (Bitte Einfügen)
+    -  MacOS: Unter Prgramme rechtsklick auf MS Word und auf "Paketinhalt anzeigen". Im Ordner Contents nach dem Ordner "Style" suchen. Dort die .xls Datei einfügen.  
+    -  Bei Windows: (Bitte Einfügen)
     
 > **⚠ Achtung**  
 > Wenn der Stil eingefügt ist darf MS-Word nicht mehr aktualisiert werden, da Word den Style Ordner sonst neu generiert.
