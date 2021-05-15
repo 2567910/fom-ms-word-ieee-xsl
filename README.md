@@ -4,4 +4,4 @@ Mit dieser Datei wird der IEEE Zitierstil gemäß dem Leitfaden der FOM Hochschu
 Die Datei muss nur in den Word root folder eingefügt werden und der Stil kann genutz werden. 
 
 ## Getting started
-1. 'git clone https://github.com/2567910/fom-ms-word-ieee-xsl.git' oder .xsl Datei herunterladen
+1. `git clone https://github.com/2567910/fom-ms-word-ieee-xsl.git` oder .xsl Datei herunterladen
