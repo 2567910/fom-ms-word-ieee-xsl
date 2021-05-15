@@ -10,4 +10,4 @@ Die Datei muss nur in den Word root folder eingefügt werden und der Stil kann g
     b. Bei Windows: (Bitte Einfügen)
     
 > **⚠ Achtung**  
-> Wenn der Stil eingefügt ist dar MS-Word nicht mehr aktuallisiert werden da Word den Style ordern sonst neu generiert.
+> Wenn der Stil eingefügt ist darf MS-Word nicht mehr aktualisiert werden, da Word den Style Ordner sonst neu generiert.
